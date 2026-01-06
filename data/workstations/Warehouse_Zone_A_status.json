@@ -1,17 +1,5 @@
 {
     "workstation": "Warehouse_Zone_A",
-    "last_update": "2026-01-06T21:37:05.738313",
-    "active_tools": [
-        {
-            "mac_address": "00:55:44:EA:02:4D",
-            "name": "Generic-024D",
-            "category": "Unassigned",
-            "workstation": "Warehouse_Zone_A",
-            "rssi": -42,
-            "last_seen_ts": 1767728216.2754657,
-            "status": "PRESENT",
-            "is_generic": true,
-            "battery_voltage": null
-        }
-    ]
+    "last_update": "2026-01-06T21:38:07.083489",
+    "active_tools": []
 }
