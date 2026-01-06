@@ -1,14 +1,14 @@
 {
     "workstation": "Warehouse_Zone_A",
-    "last_update": "2026-01-06T22:42:34.194901",
+    "last_update": "2026-01-06T22:43:35.512547",
     "active_tools": [
         {
             "mac_address": "AA:BB:AA:VV",
             "name": "Generic-AAVV",
             "category": "Unassigned",
             "workstation": "Warehouse_Zone_A",
-            "rssi": -83,
-            "last_seen_ts": 1767732153.3726,
+            "rssi": -54,
+            "last_seen_ts": 1767732214.830702,
             "status": "PRESENT",
             "is_generic": true,
             "battery_voltage": null
@@ -18,8 +18,8 @@
             "name": "Generic-8646",
             "category": "Unassigned",
             "workstation": "Warehouse_Zone_A",
-            "rssi": -45,
-            "last_seen_ts": 1767732153.3534331,
+            "rssi": -63,
+            "last_seen_ts": 1767732214.8347135,
             "status": "PRESENT",
             "is_generic": true,
             "battery_voltage": null
@@ -29,21 +29,21 @@
             "name": "Generic-0F12",
             "category": "Unassigned",
             "workstation": "Warehouse_Zone_A",
-            "rssi": -71,
-            "last_seen_ts": 1767732153.358458,
+            "rssi": -44,
+            "last_seen_ts": 1767732214.8388789,
             "status": "PRESENT",
             "is_generic": true,
             "battery_voltage": null
         },
         {
             "mac_address": "00:55:44:87:32:B0",
-            "name": "Generic-32B0",
+            "name": "ToolExample",
             "category": "Unassigned",
             "workstation": "Warehouse_Zone_A",
-            "rssi": -42,
-            "last_seen_ts": 1767732153.3630078,
+            "rssi": -67,
+            "last_seen_ts": 1767732214.8432643,
             "status": "PRESENT",
-            "is_generic": true,
+            "is_generic": false,
             "battery_voltage": null
         },
         {
@@ -51,8 +51,8 @@
             "name": "Generic-45D2",
             "category": "Unassigned",
             "workstation": "Warehouse_Zone_A",
-            "rssi": -76,
-            "last_seen_ts": 1767732153.3680906,
+            "rssi": -46,
+            "last_seen_ts": 1767732214.8478587,
             "status": "PRESENT",
             "is_generic": true,
             "battery_voltage": null
