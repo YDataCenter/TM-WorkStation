@@ -1,14 +1,14 @@
 {
     "workstation": "Warehouse_Zone_A",
-    "last_update": "2026-01-06T22:43:35.512547",
+    "last_update": "2026-01-06T22:44:36.584781",
     "active_tools": [
         {
             "mac_address": "AA:BB:AA:VV",
             "name": "Generic-AAVV",
             "category": "Unassigned",
             "workstation": "Warehouse_Zone_A",
-            "rssi": -54,
-            "last_seen_ts": 1767732214.830702,
+            "rssi": -53,
+            "last_seen_ts": 1767732276.010205,
             "status": "PRESENT",
             "is_generic": true,
             "battery_voltage": null
@@ -18,8 +18,8 @@
             "name": "Generic-8646",
             "category": "Unassigned",
             "workstation": "Warehouse_Zone_A",
-            "rssi": -63,
-            "last_seen_ts": 1767732214.8347135,
+            "rssi": -86,
+            "last_seen_ts": 1767732275.9935012,
             "status": "PRESENT",
             "is_generic": true,
             "battery_voltage": null
@@ -29,8 +29,8 @@
             "name": "Generic-0F12",
             "category": "Unassigned",
             "workstation": "Warehouse_Zone_A",
-            "rssi": -44,
-            "last_seen_ts": 1767732214.8388789,
+            "rssi": -63,
+            "last_seen_ts": 1767732275.9991586,
             "status": "PRESENT",
             "is_generic": true,
             "battery_voltage": null
@@ -40,8 +40,8 @@
             "name": "ToolExample",
             "category": "Unassigned",
             "workstation": "Warehouse_Zone_A",
-            "rssi": -67,
-            "last_seen_ts": 1767732214.8432643,
+            "rssi": -89,
+            "last_seen_ts": 1767732276.002674,
             "status": "PRESENT",
             "is_generic": false,
             "battery_voltage": null
@@ -51,8 +51,8 @@
             "name": "Generic-45D2",
             "category": "Unassigned",
             "workstation": "Warehouse_Zone_A",
-            "rssi": -46,
-            "last_seen_ts": 1767732214.8478587,
+            "rssi": -56,
+            "last_seen_ts": 1767732276.0071518,
             "status": "PRESENT",
             "is_generic": true,
             "battery_voltage": null
